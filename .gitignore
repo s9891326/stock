@@ -1,2 +1,4 @@
 /venv
 /twstock
+*.xml
+.idea
